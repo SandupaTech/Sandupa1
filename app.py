@@ -1,3 +1,6 @@
+name = "Sandupa Sandamina"
+Languages = "Python and C#"
+
 print("Hello World")
-print("I'm Sandupa Sandamina")
-print("I'm a Python and C# programmer.")
+print("I'm " + name)
+print("I'm a "+ Languages +" programmer.")
